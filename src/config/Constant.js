@@ -1,0 +1,15 @@
+export const Strings = {
+  APP_NAME: 'BLUE OX',
+  API_BASE_URL: 'http://blueox.matrixhive.com/api/',
+  TRY_AGAIN: 'Please try again...',
+  SOMETHING_WRONG: 'Something went wrong!',
+  NO_INTERNET: "No internet",
+  NO_INTERNET_TRY_AGAIN: "No internet connection found. Please check your internet connection and try again later.",
+  SOME_ERROR_OCCURS: "Some error occurs.",
+  EMPTY_CART: "Your cart is empty.",
+  EMPTY_PROD_CAT: "List is empty.",
+  EMPTY_PROD_LIST: "List is empty.",
+  ENTER_EMAIL: "Please enter email",
+  ENTER_VALID_EMAIL: "Please enter valid email",
+  ORDER_PLACED: "Your order has been placed successfully.",
+};
